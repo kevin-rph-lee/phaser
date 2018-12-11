@@ -1,4 +1,4 @@
-# Node Skeleton
+# Phaser test
 
-A basic node skeleton which i use to create my personal projects.
+Testing the phaser framework
 
